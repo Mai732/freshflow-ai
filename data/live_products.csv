@@ -1,0 +1,3 @@
+product_id,product_name,category,storage_type,shelf_life_days,cost_price,selling_price,created_at
+DAI_MILK_001,Fresh Whole Milk,Dairy,Refrigerated,7,6.0,13.0,2026-10-06T21:09:23.155824
+CHOCO_101,Chocolate,sweets,Refrigerated,5,3.0,5.0,2026-10-07T22:13:42.504956

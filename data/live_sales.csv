@@ -1,0 +1,3 @@
+sale_id,product_id,quantity_sold,sale_date,selling_price,created_at
+SALE_3D473BE4FE,BAK_BAG_116,1.0,2026-10-06,7.82,2026-10-06T21:24:53.497757
+SALE_54E9B8721F,DAI_MILK_001,3.0,2026-10-07,13.0,2026-10-07T22:16:30.729339

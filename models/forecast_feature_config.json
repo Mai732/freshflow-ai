@@ -1,0 +1,43 @@
+{
+    "target": "units_sold",
+    "feature_columns": [
+        "product_id",
+        "product_name",
+        "category",
+        "store_id",
+        "initial_quantity",
+        "selling_price",
+        "base_price",
+        "cost_price",
+        "shelf_life_days",
+        "days_to_expiry",
+        "days_remaining_at_purchase",
+        "year",
+        "month",
+        "day_of_month",
+        "day_of_week",
+        "week_of_year",
+        "is_weekend"
+    ],
+    "categorical_features": [
+        "product_id",
+        "product_name",
+        "category",
+        "store_id"
+    ],
+    "numeric_features": [
+        "initial_quantity",
+        "selling_price",
+        "base_price",
+        "cost_price",
+        "shelf_life_days",
+        "days_to_expiry",
+        "days_remaining_at_purchase",
+        "year",
+        "month",
+        "day_of_month",
+        "day_of_week",
+        "week_of_year",
+        "is_weekend"
+    ]
+}

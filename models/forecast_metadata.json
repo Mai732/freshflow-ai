@@ -1,0 +1,58 @@
+{
+    "target": "units_sold",
+    "feature_columns": [
+        "product_id",
+        "product_name",
+        "category",
+        "store_id",
+        "initial_quantity",
+        "selling_price",
+        "base_price",
+        "cost_price",
+        "shelf_life_days",
+        "days_to_expiry",
+        "days_remaining_at_purchase",
+        "year",
+        "month",
+        "day_of_month",
+        "day_of_week",
+        "week_of_year",
+        "is_weekend"
+    ],
+    "categorical_features": [
+        "product_id",
+        "product_name",
+        "category",
+        "store_id"
+    ],
+    "numeric_features": [
+        "initial_quantity",
+        "selling_price",
+        "base_price",
+        "cost_price",
+        "shelf_life_days",
+        "days_to_expiry",
+        "days_remaining_at_purchase",
+        "year",
+        "month",
+        "day_of_month",
+        "day_of_week",
+        "week_of_year",
+        "is_weekend"
+    ],
+    "numeric_medians": {
+        "initial_quantity": 255.0,
+        "selling_price": 8.8,
+        "base_price": 10.22,
+        "cost_price": 5.58,
+        "shelf_life_days": 9.0,
+        "days_to_expiry": 8.0,
+        "days_remaining_at_purchase": 8.0,
+        "year": 2023.0,
+        "month": 7.0,
+        "day_of_month": 16.0,
+        "day_of_week": 3.0,
+        "week_of_year": 26.0,
+        "is_weekend": 0.0
+    }
+}

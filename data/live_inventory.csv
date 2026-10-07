@@ -1,0 +1,5 @@
+batch_id,product_id,quantity,received_date,expiration_date,cost_price,selling_price,storage_type,created_at
+BATCH_C2312CEE29,SEA_TUN_997,10.0,2026-10-06,2026-10-08,6.0,13.0,Refrigerated,2026-10-06T20:31:49.116283
+BATCH_0C050A61A3,BAK_BAG_116,3.0,,,5.95,12.42,Refrigerated,2026-10-06T20:47:37.732167
+BATCH_7222A8FD25,DAI_MILK_001,7.0,,,6.0,13.0,Refrigerated,2026-10-06T21:09:24.175872
+BATCH_D480BC65D6,CHOCO_101,8.0,,,3.0,5.0,Refrigerated,2026-10-07T22:13:43.728856
